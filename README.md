@@ -1,6 +1,5 @@
-```
-
-# Jogo Pong Olá, Bem vindo ao meu primeiro jogo criado através do Curso da Alura.
+# Jogo Pong 
+Olá, Bem vindo ao meu primeiro jogo criado através do Curso da Alura.
 
 ![image](https://github.com/maysalgalante/jogo_pong/blob/main/jogo_pong_print.png)
 
@@ -10,13 +9,12 @@
 
 ## Feito por:
 
-### Maysa Lopes Galante
+## Maysa Lopes Galante
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+## Linkedin do Curso: 
 
-### Link para teste do jogo https://editor.p5js.org/Maysalgalante/full/dfEG1Ki7o
+https://www.linkedin.com/school/aluracursos/
 
-```
+## Link para teste do jogo: 
 
-
-
+https://editor.p5js.org/Maysalgalante/full/dfEG1Ki7o
